@@ -16,9 +16,17 @@ public class AlgoMain {
      */
     public static void main(String[] args) {
         
-        //Exercice1.launch(); // execution de l'exercice 1
-
-
+        Exercice1.launch();
+        Exercice2.launch();
+        Exercice3.launch();
+        Exercice4.launch();
+        Exercice5.launch();
+        Exercice6.launch();
+        Exercice7.launch();
+        Exercice8.launch();
+        Exercice9.launch();
+        Exercice10.launch();
+        Exercice11.launch();
     }
     
 }
