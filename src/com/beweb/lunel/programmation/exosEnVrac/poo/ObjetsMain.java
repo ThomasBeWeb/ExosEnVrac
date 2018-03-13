@@ -65,7 +65,7 @@ public class ObjetsMain {
             if(i == liste.size() - 1){  
                 result += liste.get(i);
             }else{
-                result += liste.get(i) + ", ";
+                result += liste.get(i) + " | ";
             }
         }
         
